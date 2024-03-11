@@ -1,0 +1,7 @@
+.usersContainer{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
